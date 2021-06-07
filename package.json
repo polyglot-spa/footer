@@ -1,7 +1,7 @@
 {
   "name": "@polyglot-spa/footer",
   "version": "0.1.0",
-  "description": "The Svelte micro-front end for the single spa, Polyglot SPA.",
+  "description": "The Svelte micro-front end that is the footer for the single spa, Polyglot SPA.",
   "scripts": {
     "build": "rollup -c",
     "start": "rollup -c -w",
