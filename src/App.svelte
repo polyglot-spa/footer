@@ -1,5 +1,5 @@
 <script>
-    let bananaSrc = "https://polyglot-spa-footer.s3.us-east-2.amazonaws.com/dist/assets/images/bananas.png"
+    let bananaSrc = "https://polyglot-spa-footer.s3.us-east-2.amazonaws.com/assets/images/bananas.png"
     //let bananaSrc = "http://localhost:5006/assets/images/bananas.png"
 </script>
 
